@@ -1,0 +1,6 @@
+node_modules
+dist
+
+# chaves locais (Supabase etc.)
+.env.local
+.env.*.local
